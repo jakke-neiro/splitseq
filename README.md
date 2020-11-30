@@ -54,4 +54,8 @@ A blocking solution is prepared with Blocker_1. Blocker_1 is complementary to Li
 
 ![image.png](Round_TS.PNG)
 
+![image.png](Round_TS_2.PNG)
+
 ## 10. PCR amplification
+
+![image.png](Round_PCR.PNG)
