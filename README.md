@@ -30,6 +30,13 @@ We now have a mRNA/DNA chimera:
 We have to pay attention to RNAses and DNAses
 
 ## 5. Round 2: Ligation 1
+Ligation is performed with the T4 DNA Ligase. This enzyme catalyzes the formation of a phosphodiester bond between juxtaposed 5' phosphate and 3' hydroxyl termini in duplex DNA or RNA. 
+
+2ml ligation mix: 500 ul T4 Lugase Buffer 10x + 100 ul T4 DNA ligase + 1500 water.
+
 ![image.png](Round2_1.PNG)
 
+A blocking solution is prepared with Blocker_1. Blocker_1 is complementary to Linker_1.
+
 ![image.png](Round2_2_2.PNG)
+
