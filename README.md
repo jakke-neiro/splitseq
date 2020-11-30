@@ -40,3 +40,8 @@ A blocking solution is prepared with Blocker_1. Blocker_1 is complementary to Li
 
 ![image.png](Round2_2_2.PNG)
 
+## 5. Round 3: Ligation 2
+
+![image.png](Round3_1.PNG)
+
+![image.png](Round3_2.PNG)
