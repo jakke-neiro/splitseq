@@ -45,3 +45,13 @@ A blocking solution is prepared with Blocker_1. Blocker_1 is complementary to Li
 ![image.png](Round3_1.PNG)
 
 ![image.png](Round3_2.PNG)
+
+## 6. Cell lysis
+
+## 7. cDNA purification with magnetic beads
+
+## 9. Template switch
+
+![image.png](Round_TS.PNG)
+
+## 10. PCR amplification
