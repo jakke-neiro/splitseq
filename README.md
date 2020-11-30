@@ -65,7 +65,7 @@ A blocking solution is prepared with Blocker_1. Blocker_1 is complementary to Li
 
 ## 6. Cell lysis
 
-**Optional STOP**
+**(Optional Stopping point)**
 
 ## 7. cDNA purification with magnetic beads
 
