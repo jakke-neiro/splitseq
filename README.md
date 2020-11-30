@@ -16,6 +16,8 @@ SPLiT-seq
 12. Tagmentation
 13. Round 4 barcoding: PCR
 
+## 3. Plate prepatation
+
 ## 4. Round 1: Reverse transcription
 The round 1 barcode binds to the polyadenylation tail of mRNA. The Round 1 barcode has a 15 base T-tail binding to the polyA-tail and two nonbinding bases (NV). N is any base (A, C, G, or T), and V is A,C or G.
 
@@ -28,6 +30,21 @@ We now have a mRNA/DNA chimera:
 ![image.png](Round1_2.PNG)
 
 We have to pay attention to RNAses and DNAses
+
+### Protocol
+1. Prepare 96-well plate (Round-1) on ice by transferring 4 \mu l / well from WD-1. 
+2. Prepare 96 x 8 = 768 ul RT mix.
+  * 4 ul 5X RT Buffer
+  * 0.35 ul SUPERase-In RNAse Inhibitor
+  * 1 ul dNTP mix (10 mM each)
+  * 1.65 ul water
+  * 1 ul Maxima H Minus RT
+ 3. 8 ul of previously counted cells (1.25 M cells/ml).
+ 4. Incubate 30 min 50C, palce on ice after this.
+ 5. Pool all 96 wells in a 15 ml Falcon tube.
+ 6. Add 9.6 ul 10% Triton-X-100 to the pooled cells.
+ 7. Centrifuge 1000g 5 min 4C
+ 8. Discard supernatant, resuspend the pellet in 2 ml 1x NEB buffer 3.1
 
 ## 5. Round 2: Ligation 1
 Ligation is performed with the T4 DNA Ligase. This enzyme catalyzes the formation of a phosphodiester bond between juxtaposed 5' phosphate and 3' hydroxyl termini in duplex DNA or RNA. 
