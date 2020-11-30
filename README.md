@@ -1,5 +1,20 @@
-# splitseq
+# SPLiT-seq
 SPLiT-seq
+
+## Overview
+1. ACME
+2. FACS
+3. Plate preparation 
+4. Round 1 barcoding: Reverse transcription
+5. Round 2 barcoding: Ligation 1
+6. Round 3 barcoding: Ligation 2
+7. Cell lysis
+8. cDNA purification with magnetic beads
+9. Template switch
+10. PCR amplification
+11. Size selection
+12. Tagmentation
+13. Round 4 barcoding: PCR
 
 ## 4. Round 1: Reverse transcription
 The round 1 barcode binds to the polyadenylation tail of mRNA. The Round 1 barcode has a 15 base T-tail binding to the polyA-tail and two nonbinding bases (NV). N is any base (A, C, G, or T), and V is A,C or G.
