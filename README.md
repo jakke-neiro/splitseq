@@ -19,6 +19,7 @@ SPLiT-seq
 ## 3. Plate prepatation
 
 ## 4. Round 1: Reverse transcription
+### 4.1 Theory
 The round 1 barcode binds to the polyadenylation tail of mRNA. The Round 1 barcode has a 15 base T-tail binding to the polyA-tail and two nonbinding bases (NV). N is any base (A, C, G, or T), and V is A,C or G.
 
 ![image.png](Round1_1.PNG)
@@ -31,7 +32,7 @@ We now have a mRNA/DNA chimera:
 
 We have to pay attention to RNAses and DNAses
 
-### Protocol
+### 4.2 Protocol
 1. Prepare 96-well plate (Round-1) on ice by transferring 4 \mu l / well from WD-1. 
 2. Prepare 96 x 8 = 768 ul RT mix.
   * 4 ul 5X RT Buffer
@@ -64,6 +65,14 @@ A blocking solution is prepared with Blocker_1. Blocker_1 is complementary to Li
 ![image.png](Round3_2.PNG)
 
 ## 6. Cell lysis
+### 6.2 Protocol
+1. Add 70 ul 10% Triton-X (0.1% final concentration),
+2. Centrifuge 1000g 5 min 4C.
+3. Remove supernatant, resuspend in 4.04 ml washing buffer.
+ * 4 ml 1xPBS
+ * 40 ul 10% TritonX-100 (premixed)
+4. Centrifuge 1000g 5 min 4C.
+5. Resuspend in 50 ul 1x PBS. 
 
 **(Optional Stopping point)**
 
