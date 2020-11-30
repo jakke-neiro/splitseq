@@ -17,4 +17,4 @@ We have to pay attention to RNAses and DNAses
 ## 5. Round 2: Ligation 1
 ![image.png](Round2_1.PNG)
 
-![image.png](Round2_2.PNG)
+![image.png](Round2_2_2.PNG)
